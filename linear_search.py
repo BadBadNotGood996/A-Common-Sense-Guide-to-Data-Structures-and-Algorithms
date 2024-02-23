@@ -12,4 +12,6 @@ def linear_search(array, search_value):
     return None
 
 
-print(linear_search([1, 3, 2, 7, 9, 5], 1))
+numbers = [1, 3, 2, 7, 9, 5]
+
+print(linear_search(numbers, 3))
