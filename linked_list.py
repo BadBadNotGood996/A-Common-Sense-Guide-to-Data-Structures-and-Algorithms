@@ -1,3 +1,7 @@
+"""
+src: A Common Sense Guide To Data Structures
+"""
+
 class Node:
 
     def __init__(self, data, next_node=None):

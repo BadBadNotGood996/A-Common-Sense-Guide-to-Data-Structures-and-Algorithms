@@ -1,5 +1,8 @@
 def bubble_sort(arr):
-    """Bubble sort implementation"""
+    """
+    Bubble sort implementation
+    src: A Common Sense Guide To Data Structures
+    """
 
     unsorted_until_index = len(arr) - 1
     is_sorted = False

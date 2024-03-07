@@ -1,5 +1,8 @@
 def binary_search(array, search_value):
-    """Binary Search implementation"""
+    """
+    Binary Search implementation
+    src: A Common Sense Guide To Data Structures
+    """
 
     # Establish lower and upper bounds
     lower_bound = 0

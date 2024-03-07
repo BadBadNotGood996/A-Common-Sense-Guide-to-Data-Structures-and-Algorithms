@@ -1,5 +1,8 @@
 def linear_search(array, search_value):
-    """Linear Search implementation"""
+    """
+    Linear Search implementation
+    src: A Common Sense Guide To Data Structures
+    """
 
     # Iterate through every element in the array
     for value in array:
