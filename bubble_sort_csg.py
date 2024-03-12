@@ -1,6 +1,6 @@
 """
 Bubble sort implementation
-src: A Common Sense Guide To Data Structures
+src: A Common Sense Guide to Data Structures and Algorithms
 """
 
 
