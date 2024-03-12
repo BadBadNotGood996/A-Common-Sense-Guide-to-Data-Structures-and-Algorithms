@@ -1,6 +1,8 @@
 """
+Linked List Implementation
 src: A Common Sense Guide To Data Structures
 """
+
 
 class Node:
 

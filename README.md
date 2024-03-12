@@ -6,4 +6,6 @@
 
 ## Bubble Sort
 
+## Selection Sort
+
 ## Linked List

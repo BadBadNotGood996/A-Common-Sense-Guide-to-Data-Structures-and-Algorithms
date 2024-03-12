@@ -1,8 +1,10 @@
+"""
+Binary Search implementation
+src: grokking algorithms
+"""
+
+
 def binary_search(arr, item):
-    """
-    Binary Search implementation
-    src: grokking Algorithms
-    """
     low = 0
     high = len(arr) - 1
 
