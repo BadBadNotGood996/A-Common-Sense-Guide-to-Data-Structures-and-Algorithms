@@ -9,6 +9,7 @@
 
 ## Linear Search
 - A Common Sense Guide to Data Structures and Algorithms
+- Discrete Mathematics and Its Application
 
 ## Selection Sort
 - A Common Sense Guide to Data Structures and Algorithms
